@@ -3,7 +3,6 @@ import java.util.Scanner;
 import java.math.BigDecimal;
 import java.util.InputMismatchException;
 
-
 public class Biglietteria {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
